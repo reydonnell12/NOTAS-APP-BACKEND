@@ -9,7 +9,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://willowy-alpaca-5c6fb2.netlify.app/",
+      "https://willowy-alpaca-5c6fb2.netlify.app",
     ],
   }),
 );
